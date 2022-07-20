@@ -1,0 +1,24 @@
+Package: dbplot
+Title: Simplifies Plotting Data Inside Databases
+Description: Leverages 'dplyr' to process the calculations of a plot inside a database. 
+    This package provides helper functions that abstract the work at three levels:
+    outputs a 'ggplot', outputs the calculations, outputs the formula
+    needed to calculate bins.
+Authors@R: 
+    person("Edgar", "Ruiz", email = "edgararuiz@gmail.com", role = c("aut", "cre"))
+Depends: R (>= 3.1)
+Imports: dplyr (>= 0.7), rlang (>= 0.3), ggplot2, purrr, magrittr
+Suggests: dbplyr (>= 1.4.0), testthat, tidyr, covr
+License: GPL-3
+URL: https://github.com/edgararuiz/dbplot
+BugReports: https://github.com/edgararuiz/dbplot/issues
+RoxygenNote: 7.0.2
+Encoding: UTF-8
+Repository: RSPM
+RemoteSha: 4889369f69b491b7e6c91a5f60a02e5c0348e3dc
+Version: 0.3.3.0.0.0.1581024674
+Date: 2020-02-06
+NeedsCompilation: no
+Packaged: 2020-02-06 21:31:35 UTC; root
+Author: Edgar Ruiz [aut, cre]
+Maintainer: Edgar Ruiz <edgararuiz@gmail.com>
