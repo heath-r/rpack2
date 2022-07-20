@@ -1,0 +1,13 @@
+Package: saver
+Type: Package
+Title: Save R
+Version: 0.3.0
+Author: Ferris Bueller
+Maintainer: Unlikey to be reached <save-saver@rstudio.com>
+Description: He'll keep calling me, he'll keep calling me until I come over. He'll make me feel guilty. This is uh... This is ridiculous, ok I'll go, I'll go, I'll go, I'll go, I'll go. What - I'LL GO. Shit.
+License: No Trademarks are violated? *fingers crossed*
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
+Packaged: 2017-11-17 17:57:06 UTC; sean
+Repository: RSPM
